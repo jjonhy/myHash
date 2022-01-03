@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/simulador_fonte.dir/Controller.cpp.o CMakeFiles/simulador_fonte.dir/main.cpp.o CMakeFiles/simulador_fonte.dir/Model.cpp.o CMakeFiles/simulador_fonte.dir/View.cpp.o -o simulador_fonte 
